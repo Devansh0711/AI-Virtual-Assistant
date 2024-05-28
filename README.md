@@ -32,38 +32,6 @@ This project is a Python-based voice assistant designed to help you with various
   - `speech_recognition`
   - `decouple`
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
-   ```
-
-2. Change into the project directory:
-   ```bash
-   cd voice-assistant
-   ```
-
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Create a `.env` file in the root directory and add your configuration:
-   ```
-   USER=YourName
-   BOTNAME=YourBotName
-   ```
-
-## Usage
-
-Run the main script to start the voice assistant:
-```bash
-python main.py
-```
-
-The assistant will greet you and wait for your commands. Use any of the supported commands to interact with the assistant.
-
 ## Supported Commands
 
 - **Open Applications:**
