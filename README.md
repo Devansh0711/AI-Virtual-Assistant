@@ -59,10 +59,4 @@ This project is a Python-based voice assistant designed to help you with various
 
 Feel free to fork this project, create a feature branch, and submit pull requests. Contributions are always welcome.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 Thank you for using the Voice Assistant Project! If you have any questions or issues, please feel free to open an issue on GitHub.
